@@ -1,4 +1,4 @@
-import 'package:ecommerce/add_product.dart';
+import 'package:ecommerce/addProduct.dart';
 import 'package:ecommerce/homePage.dart';
 import 'package:ecommerce/detail.dart';
 import 'package:flutter/material.dart';
